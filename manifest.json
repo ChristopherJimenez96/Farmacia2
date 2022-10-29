@@ -1,0 +1,24 @@
+{
+    "name": "#Sistema de Farmacia",
+    "short_name": "#SisFarm",
+    "description": "Bienvenid@s a #Sistema de Farmacia, Sistema de sucursales farmacéuticas para la venta de medicamentos.",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./",
+    "scope": "./",
+
+    "icons": [
+        {
+            "src": "assets/images/favicon.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/logo.png",
+            "sizes": "241x56",
+            "type": "image/png"
+        }
+    ]
+}
